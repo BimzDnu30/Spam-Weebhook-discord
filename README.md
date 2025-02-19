@@ -18,7 +18,7 @@ SpamWebhook adalah tool sederhana untuk mengirimkan spam ke Webhook yang didukun
 ## 🔧 Cara Instalasi
 1. **Clone repository**  
    ```bash
-   git clone https://github.com/bimz/spamwebhook.git
+   git clone https://github.com/BimzDnu30/Spam-Weebhook-discord.git
    cd spamwebhook
    ```
 2. **Install dependencies**  
@@ -60,7 +60,7 @@ SpamWebhook is a simple tool for spamming Webhooks on various platforms such as 
 ## 🔧 Installation
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/bimz/spamwebhook.git
+   git clone https://github.com/BimzDnu30/Spam-Weebhook-discord.git
    cd spamwebhook
    ```
 2. **Install dependencies**  
